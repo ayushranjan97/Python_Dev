@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="load_rc">
-    <file>swarnayu.png</file>
-    <file>database.png</file>
-  </qresource>
-</RCC>
