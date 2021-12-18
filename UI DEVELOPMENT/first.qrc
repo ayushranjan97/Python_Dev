@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>1429682.png</file>
+    <file>logo_spamFilter.png</file>
+  </qresource>
+</RCC>
